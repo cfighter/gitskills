@@ -1,10 +1,8 @@
 create a new branch
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
+
+Creating a new branch is quick and simple.
 test conflict
 
-=======
-Creating a new branch is quick and simple.
-test conflics
->>>>>>> a9a7973a1249cdbe3d4eb137bd90254935d4a163
+
+
 
